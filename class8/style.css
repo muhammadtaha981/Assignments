@@ -1,0 +1,11 @@
+p {
+    text-align: center;
+    letter-spacing: 15px;
+    border-bottom: 20px solid #0ef;
+    width: 110px;
+    border-left: 800px solid black;
+    border-right: 800px solid black;
+    color: aliceblue;
+    background-color: black;
+    font-weight: 600;font-size: x-large;padding: 0%;
+}

@@ -1,0 +1,107 @@
+     .container {
+         width: 100%;
+     }
+
+     .parent {
+
+         background-color: rgb(3, 3, 3);
+         display: flex;
+         width: 100%;
+         justify-content: center;
+     }
+
+     .bloom {
+         display: flex;
+
+         background-color: black;
+         color: white;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         font-style: italic;
+         font-weight: bold;
+         width: 40%;
+         height: 50px;
+         padding: 7px;
+     }
+
+     #p {
+         margin: auto;
+         font-weight: bolder;
+         font-size: xx-large;
+         display: flex;
+     }
+
+     .list {
+         display: flex;
+
+         background-color: black;
+         color: white;
+         width: 40%;
+         height: 64px;
+         align-items: end;
+         text-align: right;
+     }
+
+     .li {
+         display: flex;
+         text-align: right;
+         font-weight: bold;
+         font-size: larger;
+         margin: auto;
+     }
+
+     .ul {
+         padding: 5px;
+
+         list-style: none;
+     }
+
+     .parent1 {
+         display: flex;
+         background-color: whitesmoke;
+         width: 100%;
+         height: 350px;
+         justify-content: center;
+     }
+
+     .para {
+         width: 40%;
+         padding-left: 40px;
+         margin-top: 10px;
+     }
+
+     button {
+         background-color: rgb(240, 160, 12);
+         color: white;
+         height: 30px;
+         width: 100px;
+         border: none;
+     }
+
+     .image {
+         width: 40%;
+         margin: auto;
+     }
+
+     img {
+         width: 70%;
+         height: 180px;
+         margin: auto;
+         padding: 15px;
+     }
+
+
+
+
+     .card_container{
+         display: flex;
+     }
+
+
+
+     .card {
+         width: 30%;
+         border: 3px solid black;
+
+     }
+     #img{width: 100%;}
+    
